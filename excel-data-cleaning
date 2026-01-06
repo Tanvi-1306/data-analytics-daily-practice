@@ -1,0 +1,40 @@
+# Excel Data Cleaning Project – HR Analytics (In Progress)
+
+## Objective
+This repository documents my data cleaning workflow using Microsoft Excel on a real-world HR analytics dataset, following standard data analyst practices.
+
+## Dataset
+- Source: IBM HR Analytics Employee Attrition Dataset (practice)
+- File Name: WA_Fn-UseC_-HR-Employee-Attrition.csv
+- Format: CSV
+- Domain: Human Resources (HR Analytics)
+- Use Case: Employee Attrition Analysis
+
+## Data Cleaning Status
+
+### Current Status
+- Data cleaning has not been started yet
+- Repository created to track the complete cleaning workflow step by step
+
+### Planned Cleaning Steps
+- [ ] Review column names and data types
+- [ ] Identify missing values
+- [ ] Identify duplicate records
+- [ ] Trim extra spaces and standardize text values
+- [ ] Handle missing values
+- [ ] Remove duplicates
+- [ ] Standardize date and numeric formats
+- [ ] Validate cleaned data
+
+## Excel Features That Will Be Used
+- Filters & Sorting
+- Remove Duplicates
+- Conditional Formatting
+- Text functions (`TRIM`, `UPPER`, `LOWER`)
+- IF and logical functions
+- Data Validation
+
+## Status
+🚧 Project setup completed.  
+Data cleaning and documentation updates will be added in upcoming commits.
+
